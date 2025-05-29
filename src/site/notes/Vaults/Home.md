@@ -3,6 +3,3 @@
 ---
 
 # HI This is my new home
-
-
-I am 
