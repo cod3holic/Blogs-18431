@@ -2,6 +2,8 @@
 {"dg-publish":true,"dg-path":"Home.md","permalink":"/home/","hide":true,"tags":["gardenEntry"]}
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ec441a89-10d6-4865-8a6f-e8b71042c6c4/deploy-status)](https://app.netlify.com/projects/funny-beijinho-528efe/deploys)
+
 # About Minotes
 
 **Minotes**는 제가 이해하고 소화하고 기록하는 공간입니다. 그래서 단순한 노트-taking을 넘어, 내가 흐른 생각, 질문, 그리고 이해하는 과정을 기록하는 공간입니다. 각 노트는 간결하게 작성되며, 더 자세한 내용은 링크된 페이지나 검색 기능을 통해 확인할 수 있습니다.
