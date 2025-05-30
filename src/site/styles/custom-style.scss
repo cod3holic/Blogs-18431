@@ -1,13 +1,34 @@
 body {
-    /***
+  /***
       ADD YOUR CUSTOM STYLING HERE. (INSIDE THE body {...} section.)
       IT WILL TAKE PRECEDENCE OVER THE STYLING IN THE STYLE.CSS FILE.
    ***/
-    //  background-color: white;
-    //  .content {
-    //   font-size: 14px;
-    //  }
-    //  h1 {
-    //   color: black;
-    //  }
+  //  background-color: white;
+  //  .content {
+  //   font-size: 14px;
+  //  }
+  //  h1 {
+  //   color: black;
+  //  }
+  .search-button {
+    border-radius: 5px;
+    height: 2em;
+    flex-grow: 1;
+    margin: 10px 10px;
+    border: 1px solid var(--text-faint);
+    justify-content: space-between;
+
+    > .search-icon {
+      margin: 10px;
+    }
+
+    .search-text {
+      flex-grow: 1;
+      text-align: center;
+    }
+
+    &:hover {
+      border: 1px solid var(--text-accent);
+    }
+  }
 }
