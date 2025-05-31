@@ -21,3 +21,11 @@ Minotes에서는 제가 관심있는 다양한 주제들을 다룹니다.
 # How to Use
 
 - **Search**: 검색 바를 사용해 원하는 키워드로 빠르게 찾을 수 있습니다.
+
+# Rules
+- Clean Architecture의 일부 룰을 따릅니다.
+- 지식은 persist, mutable으로 나뉩니다.
+	- persist 지식은 변하지 않는 지식을 의미합니다.(attention 메커니즘 / Books에 존재하는 것)
+	- mutable 지식은 변하는 지식을 의미합니다. (langchain framework / nextjs framework)
+- 생각은 thought로 표시합니다. 이는 non-persist합니다.
+- 경험은 event로 표시합니다. 이는 persist합니다.
