@@ -4,13 +4,14 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ec441a89-10d6-4865-8a6f-e8b71042c6c4/deploy-status)](https://app.netlify.com/projects/funny-beijinho-528efe/deploys)
 
-# About Minotes
+# About Dylearning
 
-**Minotes**는 제가 이해하고 소화하고 기록하는 공간입니다. 그래서 단순한 노트-taking을 넘어, 내가 흐른 생각, 질문, 그리고 이해하는 과정을 기록하는 공간입니다. 각 노트는 간결하게 작성되며, 더 자세한 내용은 링크된 페이지나 검색 기능을 통해 확인할 수 있습니다.
+**Dylearning**는 제가 이해하고 소화하고 기록하는 공간입니다. 단순한 노트-taking을 넘어, 흐른 생각, 질문, 그리고 이해하는 과정을 기록하는 공간입니다. 각 노트는 간결하게 작성되며, 더 자세한 내용은 링크된 페이지나 검색 기능을 통해 확인할 수 있습니다.
+*`Dylearning`은 `Dylan` + `learning`의 합성어입니다.*
 
 # Topics
 
-Minotes에서는 제가 관심있는 다양한 주제들을 다룹니다.
+Dylearning에서는 제가 관심있는 다양한 주제들을 다룹니다.
 
 - **Books**: 책에서 얻은 통찰과 생각
 - **Software**: 프로그램, 도구, 기술에 대한 이해
