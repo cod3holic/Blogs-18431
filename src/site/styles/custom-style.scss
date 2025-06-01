@@ -10,6 +10,17 @@ body {
   //  h1 {
   //   color: black;
   //  }
+
+  padding-bottom: 0px !important;
+
+  footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 20px;
+    background-color: #f0f0f0;
+    border-top: 1px solid #e0e0e0;
+  }
+
   .search-button {
     border-radius: 5px;
     height: 2em;
